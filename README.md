@@ -4,7 +4,7 @@
 
 This repository provides an analysis and implementation of machine learning models to predict search volumes for various games. The models evaluated include Random Forest, XGBoost, and LightGBM, with performance metrics including Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). Hyperparameter tuning is also performed for the LightGBM model using GridSearchCV to optimize its performance.
 
-##Models and Performance
+## Models and Performance
 
 ## 1. Random Forest Model
 - MAE (Mean Absolute Error): 0.21
